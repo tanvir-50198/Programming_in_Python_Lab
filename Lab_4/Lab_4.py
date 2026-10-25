@@ -60,7 +60,7 @@ print()
 
 #F_0 = 0, and F_1 = 1]
 
-n = 10
+n = int(input("given a number"))
 fib = [0] * n  # Create a list of size n
 
 # Step 1: Initialize the first two elements
